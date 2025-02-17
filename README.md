@@ -3,7 +3,9 @@ This repository contains code and data related to the analysis of multiple disea
 # Contents
 Due to the sensitive nature of the research and data privacy concerns, the full data is not publicly available. This repository serves as a placeholder and provides general information about the project. Only the Tweet ID, Datetime and Label columns are publicly available.
 # Dataset
-The dataset consists of approximately 3,66,573 tweets related to 4 disease outbreaks, collected and labeled into five classes: COVID-19, Hepatitis-A, HIV, Monkeypox and Not Relevant. The data is stored in an CSV file format.
+The dataset consists of approximately 3,66,573 tweets related to 5 classes:
+4 disease outbreaks: COVID-19, Hepatitis-A, HIV, Monkeypox and Not Relevant. 
+The data is stored in an CSV file format.
 # Methodology
 The project involves several key steps:
 

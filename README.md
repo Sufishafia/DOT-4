@@ -1,4 +1,4 @@
-# Multi-Disease Outbreak Detection using Social Media
+# Multi-Epidemic Outbreak Prediction Using Social Media
 This repository contains code and data related to the analysis of multiple disease outbreaks using social media data, specifically X. The project focuses on classifying tweets into FIVE categories: four disease related classes and one class that is Not Related class.
 # Contents
 Due to the sensitive nature of the research and data privacy concerns, the full data is not publicly available. This repository serves as a placeholder and provides general information about the project. Only the Tweet ID, Datetime and Label columns are publicly available.
